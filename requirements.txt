@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+face-recognition
+Pillow
+numpy
+pandas
+joblib
